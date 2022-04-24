@@ -1,5 +1,5 @@
 {
-	"name": "chenxii-scroller",
+	"name": "chenxii-scrolling",
 	"version": "0.0.1",
 	"description": "ease-to-use scrolling library",
 	"main": "dist/index.js",
